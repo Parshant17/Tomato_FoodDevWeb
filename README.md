@@ -1,4 +1,3 @@
-# Tomato_FoodDevWeb
 # 🍅 Tomato – Food Delivery Platform
 
 **Tomato** is a modern, responsive food delivery web application inspired by Zomato. It offers a smooth user experience with multiple functional pages, a shopping cart feature, and elegant UI built using **ReactJS**, **HTML**, and **CSS**.
